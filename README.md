@@ -34,8 +34,8 @@ I am a **final-year student at Moscow Aviation Institute (MAI)**,
 
 ---
 
-### 📚 Currently Learning
-🔹 **Nginx** 
+### 📚 Currently 
+🔹 **Making diploma** 
 
 🔹 **Contribute to open-source**
 
