@@ -48,9 +48,10 @@ I am a **final-year student at Moscow Aviation Institute (MAI)**,
 <a href="mailto:gribvsevid@gmail.com">
       <img src="https://img.shields.io/badge/Email-orange?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
     </a>
+    
 ---
 
- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmMurrr&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmMurrr&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmMurrr&theme=dracula" />
