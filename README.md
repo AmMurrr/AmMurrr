@@ -20,7 +20,6 @@ I am a **final-year student at Moscow Aviation Institute (MAI)**,
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-B30000?style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -35,9 +34,9 @@ I am a **final-year student at Moscow Aviation Institute (MAI)**,
 ---
 
 ### 📚 Currently 
-🔹 **Making diploma** 
+🔹 **looking for a job in my specialty** 
 
-🔹 **Contribute to open-source**
+🔹 **Contributing to open-source**
 
 ---
 
