@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I am a Junior Python Backend Developer in Moscow,  
+I am a Junior Python Backend Developer in Moscow.
 
 
 
