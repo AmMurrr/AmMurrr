@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I am a **final-year student at Moscow Aviation Institute (MAI)**,  
+I am a Junior Python Backend Developer in Moscow,  
 
 
 
