@@ -17,19 +17,16 @@
 
 A FastAPI service and Telegram bot that let users search for a lost item by description. PostgreSQL filters records by station and date, and pgvector ranks the matches using text embeddings from a local model.
 
-[Search implementation](https://github.com/AmMurrr/Lost_items/blob/master/app/services/search_service.py) · [API integration tests](https://github.com/AmMurrr/Lost_items/blob/master/tests/test_api_integration.py)
 
 ### [Report CLI](https://github.com/AmMurrr/report_cli) · Extensible CSV reporting
 
 A Python command-line tool that reads YouTube metrics from multiple CSV files and generates a report. It discovers new report types automatically, so adding one requires no changes to the CLI.
 
-[Report discovery](https://github.com/AmMurrr/report_cli/blob/master/src/report_cli/reports/registry.py) · [Tests](https://github.com/AmMurrr/report_cli/tree/master/tests)
 
 ### [AutoDrill Research](https://github.com/AmMurrr/AutoDrillResearch) · Pronunciation assessment
 
 My thesis project compares two ways to score pronunciation: MFCC features aligned with dynamic time warping, and wav2vec 2.0 embeddings. A Streamlit app lets users try both approaches.
 
-[Evaluation code](https://github.com/AmMurrr/AutoDrillResearch/tree/master/evaluation)
 
 ## Contributions
 
