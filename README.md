@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Junior Python Backend Developer</strong> · Moscow</p>
 
-<p align="center">I build Python APIs and data-processing tools. I'm especially interested in search and how asynchronous services behave when something goes wrong.</p>
+<p align="center">I build Python backend projects. I'm especially interested in AI tools and how asynchronous services behave when something goes wrong.</p>
 
 <p align="center">
   <a href="https://t.me/rlasarl"><img src="https://img.shields.io/badge/Telegram-246B92?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Contact me on Telegram"></a>
@@ -39,6 +39,7 @@ My thesis project compares two ways to score pronunciation: MFCC features aligne
 
 ## Stack
 
-- **Backend** · Python, FastAPI, Django, asyncio, RabbitMQ
-- **Data** · PostgreSQL, pgvector, MongoDB
-- **Tooling** · pytest, Ruff, Docker Compose, Git
+- **Backend** · Python, FastAPI, Django, asyncio, RabbitMQ, gRPC, 
+- **Databases** · PostgreSQL, MongoDB, Redis,  Alembic, SQLAlchemy
+- **Tooling** · pytest, Ruff, Docker, Git, uv, Linux
+- **LLMs & Retrieval**: vLLM, Instructor, Docling, RAG, Qdrant, pgvector
